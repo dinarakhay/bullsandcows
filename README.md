@@ -1,3 +1,3 @@
 # bullsandcows
 
-Web Server with Vert.x-Web
+Web Server with Vert.x
