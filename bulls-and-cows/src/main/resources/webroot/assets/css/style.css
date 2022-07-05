@@ -1,0 +1,32 @@
+p{
+	font-family:arial;
+	font-weight: 500;
+	font-size: 160%;
+}
+h1{
+	font-family:arial;
+	font-weight: 500;
+	font-size:  300%;
+}
+nav button{
+	font-family:"Times New Roman", Georgia, Serif;
+	font-size: 160%;
+	font-weight: 900;
+	display: inline-block;
+	list-style-type: none;
+	float: center;
+	width: 24%;
+	position: center;
+	border-radius: 50px;
+	background: LightGreen;
+	color: white;
+	padding:20px 15px;
+	margin: 0.3%;
+}
+
+nav a{
+	color: black;
+	 text-decoration: none;
+}
+
+
